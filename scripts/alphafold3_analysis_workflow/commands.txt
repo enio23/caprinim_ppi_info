@@ -1,0 +1,5 @@
+# Stage 1: Align
+sbatch --array=0-100 --export=ALL,LINE_OFFSET=0 run_stage1_align_offset.slurm # i.e. align the first 100 PPIs from 03_scripts/input_list.txt list
+
+# Stage 2: Inference
+sbatch --array=1-100%4 --export=ALL,LINE_OFFSET=0 run_stage2_infer.slurm
