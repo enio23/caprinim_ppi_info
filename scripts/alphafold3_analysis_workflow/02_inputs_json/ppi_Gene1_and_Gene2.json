@@ -1,0 +1,22 @@
+{
+  "name": "ppi_Gene1_Gene2_UPID1_UPID2",
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "PROTEINSEQUENCEFORGENE1"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "PROTEINSEQUENCEFORGENE2"
+      }
+    }
+  ],
+  "modelSeeds": [
+    1234
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}
