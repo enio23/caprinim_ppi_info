@@ -1,0 +1,1 @@
+ppi=biogrid  integrated=aggrPvals(order=2)  fdr=0.05  positive_nodes=561  total_nodes=1308

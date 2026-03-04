@@ -1,0 +1,4 @@
+threshold	threshold_label	resource	n_pathway_wins
+0.05	0.05	CAPRINIM	17
+0.05	0.05	BioGRID	9
+0.05	0.05	STRING	9

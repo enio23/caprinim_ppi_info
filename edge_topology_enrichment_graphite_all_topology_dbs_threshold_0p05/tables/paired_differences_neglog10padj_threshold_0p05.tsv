@@ -1,0 +1,35 @@
+threshold	threshold_label	source_db	pathway_id	pathway_label	comparison	delta_neglog10_padj
+0.05	0.05	kegg	mmu:04020	[KEGG] Calcium signaling pathway	CAPRINIM - BioGRID	0.3719363035721107
+0.05	0.05	kegg	mmu:04020	[KEGG] Calcium signaling pathway	CAPRINIM - STRING	0.3719363035721107
+0.05	0.05	kegg	mmu:04260	[KEGG] Cardiac muscle contraction	CAPRINIM - BioGRID	2.3926319796521174
+0.05	0.05	kegg	mmu:04260	[KEGG] Cardiac muscle contraction	CAPRINIM - STRING	1.9871769080180441
+0.05	0.05	kegg	mmu:04261	[KEGG] Adrenergic signaling in cardiomyocytes	CAPRINIM - BioGRID	1.3177478673907639
+0.05	0.05	kegg	mmu:04261	[KEGG] Adrenergic signaling in cardiomyocytes	CAPRINIM - STRING	0.7053879538422861
+0.05	0.05	kegg	mmu:04270	[KEGG] Vascular smooth muscle contraction	CAPRINIM - BioGRID	0
+0.05	0.05	kegg	mmu:04270	[KEGG] Vascular smooth muscle contraction	CAPRINIM - STRING	0
+0.05	0.05	kegg	mmu:04961	[KEGG] Endocrine and other factor-regulated calcium reabsorption	CAPRINIM - BioGRID	0
+0.05	0.05	kegg	mmu:04961	[KEGG] Endocrine and other factor-regulated calcium reabsorption	CAPRINIM - STRING	0
+0.05	0.05	kegg	mmu:05410	[KEGG] Hypertrophic cardiomyopathy	CAPRINIM - BioGRID	1.891649204633052
+0.05	0.05	kegg	mmu:05410	[KEGG] Hypertrophic cardiomyopathy	CAPRINIM - STRING	1.4415840163581946
+0.05	0.05	kegg	mmu:05412	[KEGG] Arrhythmogenic right ventricular cardiomyopathy	CAPRINIM - BioGRID	0
+0.05	0.05	kegg	mmu:05412	[KEGG] Arrhythmogenic right ventricular cardiomyopathy	CAPRINIM - STRING	0
+0.05	0.05	kegg	mmu:05414	[KEGG] Dilated cardiomyopathy	CAPRINIM - BioGRID	1.9149572594862743
+0.05	0.05	kegg	mmu:05414	[KEGG] Dilated cardiomyopathy	CAPRINIM - STRING	1.7679357264695101
+0.05	0.05	kegg	mmu:05415	[KEGG] Diabetic cardiomyopathy	CAPRINIM - BioGRID	0.13164155245635933
+0.05	0.05	kegg	mmu:05415	[KEGG] Diabetic cardiomyopathy	CAPRINIM - STRING	0.13164155245635933
+0.05	0.05	reactome	R-MMU-2730905	[REACTOME] Role of LAT2/NTAL/LAB on calcium mobilization	CAPRINIM - BioGRID	0
+0.05	0.05	reactome	R-MMU-2730905	[REACTOME] Role of LAT2/NTAL/LAB on calcium mobilization	CAPRINIM - STRING	0
+0.05	0.05	reactome	R-MMU-390522	[REACTOME] Striated Muscle Contraction	CAPRINIM - BioGRID	1.63860370542106
+0.05	0.05	reactome	R-MMU-390522	[REACTOME] Striated Muscle Contraction	CAPRINIM - STRING	1.254797865517056
+0.05	0.05	reactome	R-MMU-397014	[REACTOME] Muscle contraction	CAPRINIM - BioGRID	2.187418817472334
+0.05	0.05	reactome	R-MMU-397014	[REACTOME] Muscle contraction	CAPRINIM - STRING	1.6725683862465972
+0.05	0.05	reactome	R-MMU-418360	[REACTOME] Platelet calcium homeostasis	CAPRINIM - BioGRID	0
+0.05	0.05	reactome	R-MMU-418360	[REACTOME] Platelet calcium homeostasis	CAPRINIM - STRING	0
+0.05	0.05	reactome	R-MMU-445355	[REACTOME] Smooth Muscle Contraction	CAPRINIM - BioGRID	0
+0.05	0.05	reactome	R-MMU-445355	[REACTOME] Smooth Muscle Contraction	CAPRINIM - STRING	0
+0.05	0.05	reactome	R-MMU-8949215	[REACTOME] Mitochondrial calcium ion transport	CAPRINIM - BioGRID	0
+0.05	0.05	reactome	R-MMU-8949215	[REACTOME] Mitochondrial calcium ion transport	CAPRINIM - STRING	0
+0.05	0.05	wikipathways	WP1560	[WIKIPATHWAYS] MicroRNAs in cardiomyocyte hypertrophy	CAPRINIM - BioGRID	0
+0.05	0.05	wikipathways	WP1560	[WIKIPATHWAYS] MicroRNAs in cardiomyocyte hypertrophy	CAPRINIM - STRING	0
+0.05	0.05	wikipathways	WP553	[WIKIPATHWAYS] Calcium regulation in cardiac cells	CAPRINIM - BioGRID	0
+0.05	0.05	wikipathways	WP553	[WIKIPATHWAYS] Calcium regulation in cardiac cells	CAPRINIM - STRING	0

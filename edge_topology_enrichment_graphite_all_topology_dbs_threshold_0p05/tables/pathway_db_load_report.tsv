@@ -1,0 +1,8 @@
+source_db	status	n_pathways	n_edges	error
+kegg	OK	9	3657	NA
+reactome	OK	10	2817	NA
+wikipathways	OK	5	163	NA
+panther	FAILED	NA	NA	no database ""panther"" for species ""mmusculus""
+pathbank	EMPTY_EDGES	0	0	NA
+pharmgkb	FAILED	NA	NA	no database ""pharmgkb"" for species ""mmusculus""
+smpdb	FAILED	NA	NA	no database ""smpdb"" for species ""mmusculus""

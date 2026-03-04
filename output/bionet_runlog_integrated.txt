@@ -1,0 +1,45 @@
+[2026-03-03 19:04:54] Starting BioNet *integrated* pipeline 
+[2026-03-03 19:05:00] Loaded all_results and ppi_list with PPIs:  caprinim, biogrid, string 
+[2026-03-03 19:05:01] Common genes (intersection proteomics x RNA):  5474 
+[2026-03-03 19:05:06] Omics table rows:  5474  | prot_p<0.05:  1787  | gex_p<0.05:  2925 
+[2026-03-03 19:05:06] Integrated p-values computed with aggrPvals(order=2).  | int_p<0.05:  2213 
+[2026-03-03 19:05:08] === PPI:  caprinim  (integrated run) === 
+[2026-03-03 19:05:08] Progress: starting integrated run for  caprinim  | approx step  1 - 1 / 3 
+[2026-03-03 19:05:08] ----  bionet_integrated  | PPI= caprinim  | start ---- 
+[2026-03-03 19:05:08] Graph built: nodes= 4101  edges= 11188 
+[2026-03-03 19:05:08] After restrict_to_measured ( any ): nodes= 1616  edges= 2480 
+[2026-03-03 19:05:08] After LCC: nodes= 1145  edges= 2426 
+[2026-03-03 19:05:08] Nodes with omics evidence in this graph:  1145 / 1145 
+[2026-03-03 19:05:09]   [ bionet_integrated  |  caprinim ] scoring @ FDR= 0.05 
+[2026-03-03 19:05:09]   [ bionet_integrated  |  caprinim ] positive nodes:  501 / 1145 
+[2026-03-03 19:05:09]   [ bionet_integrated  |  caprinim ] running runFastHeinz() 
+[2026-03-03 19:05:51]   [ bionet_integrated  |  caprinim ] writing PDF plot 
+[2026-03-03 19:05:52]   [ bionet_integrated  |  caprinim ] writing GraphML 
+[2026-03-03 19:05:52] ----  bionet_integrated  | PPI= caprinim  | done ---- 
+[2026-03-03 19:05:52] === PPI:  biogrid  (integrated run) === 
+[2026-03-03 19:05:52] Progress: starting integrated run for  biogrid  | approx step  2 - 2 / 3 
+[2026-03-03 19:05:52] ----  bionet_integrated  | PPI= biogrid  | start ---- 
+[2026-03-03 19:05:52] Graph built: nodes= 2906  edges= 14759 
+[2026-03-03 19:05:52] After restrict_to_measured ( any ): nodes= 1400  edges= 5795 
+[2026-03-03 19:05:52] After LCC: nodes= 1308  edges= 5794 
+[2026-03-03 19:05:52] Nodes with omics evidence in this graph:  1308 / 1308 
+[2026-03-03 19:05:52]   [ bionet_integrated  |  biogrid ] scoring @ FDR= 0.05 
+[2026-03-03 19:05:52]   [ bionet_integrated  |  biogrid ] positive nodes:  561 / 1308 
+[2026-03-03 19:05:52]   [ bionet_integrated  |  biogrid ] running runFastHeinz() 
+[2026-03-03 19:06:08]   [ bionet_integrated  |  biogrid ] writing PDF plot 
+[2026-03-03 19:06:09]   [ bionet_integrated  |  biogrid ] writing GraphML 
+[2026-03-03 19:06:09] ----  bionet_integrated  | PPI= biogrid  | done ---- 
+[2026-03-03 19:06:09] === PPI:  string  (integrated run) === 
+[2026-03-03 19:06:09] Progress: starting integrated run for  string  | approx step  3 - 3 / 3 
+[2026-03-03 19:06:09] ----  bionet_integrated  | PPI= string  | start ---- 
+[2026-03-03 19:06:09] Graph built: nodes= 3860  edges= 54836 
+[2026-03-03 19:06:09] After restrict_to_measured ( any ): nodes= 1577  edges= 14488 
+[2026-03-03 19:06:09] After LCC: nodes= 1539  edges= 14486 
+[2026-03-03 19:06:09] Nodes with omics evidence in this graph:  1539 / 1539 
+[2026-03-03 19:06:09]   [ bionet_integrated  |  string ] scoring @ FDR= 0.05 
+[2026-03-03 19:06:09]   [ bionet_integrated  |  string ] positive nodes:  669 / 1539 
+[2026-03-03 19:06:09]   [ bionet_integrated  |  string ] running runFastHeinz() 
+[2026-03-03 19:06:33]   [ bionet_integrated  |  string ] writing PDF plot 
+[2026-03-03 19:06:35]   [ bionet_integrated  |  string ] writing GraphML 
+[2026-03-03 19:06:35] ----  bionet_integrated  | PPI= string  | done ---- 
+[2026-03-03 19:06:35] All done. Results in output/bionet_integrated_*; log: output/bionet_runlog_integrated.txt 

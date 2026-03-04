@@ -1,0 +1,18 @@
+source_db	pathway_id	pathway_name	n_nodes_in_benchmark	n_pathway_edges_in_universe
+kegg	mmu:04020	Calcium signaling pathway	172	345
+kegg	mmu:05414	Dilated cardiomyopathy	55	175
+kegg	mmu:05415	Diabetic cardiomyopathy	69	80
+kegg	mmu:04270	Vascular smooth muscle contraction	75	76
+kegg	mmu:04261	Adrenergic signaling in cardiomyocytes	81	59
+kegg	mmu:05410	Hypertrophic cardiomyopathy	26	30
+kegg	mmu:05412	Arrhythmogenic right ventricular cardiomyopathy	17	20
+kegg	mmu:04260	Cardiac muscle contraction	16	19
+kegg	mmu:04961	Endocrine and other factor-regulated calcium reabsorption	24	13
+reactome	R-MMU-397014	Muscle contraction	79	214
+reactome	R-MMU-445355	Smooth Muscle Contraction	19	70
+reactome	R-MMU-390522	Striated Muscle Contraction	14	64
+reactome	R-MMU-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	10	27
+reactome	R-MMU-8949215	Mitochondrial calcium ion transport	10	18
+reactome	R-MMU-418360	Platelet calcium homeostasis	18	11
+wikipathways	WP1560	MicroRNAs in cardiomyocyte hypertrophy	59	79
+wikipathways	WP553	Calcium regulation in cardiac cells	8	5
